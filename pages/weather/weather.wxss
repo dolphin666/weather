@@ -1,0 +1,5 @@
+/* pages/weather/weather.wxss */
+input{
+  height:50px;
+  background: #eee;
+}

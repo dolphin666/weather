@@ -1,0 +1,4 @@
+<!--pages/weather/weather.wxml-->
+<text>{{weather}}</text>
+<input placeholder='城市' bindinput='getCity'></input>
+<button bindtap='getWeather' type='primary'>查询天气</button>

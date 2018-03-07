@@ -1,0 +1,4 @@
+<!--pages/test/test.wxml-->
+<text>pages/test/test.wxml</text>
+<view>{{message}}</view>
+<button bindtap='getWeather'>查询天气</button>
